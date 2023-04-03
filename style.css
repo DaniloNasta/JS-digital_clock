@@ -1,0 +1,12 @@
+body{
+    background-color: #222222;
+}
+
+.clock-container{
+    background-color: #2b2b2b;
+}
+
+.clock{
+    font-family: 'Orbitron', sans-serif;
+    color: chartreuse;
+}
